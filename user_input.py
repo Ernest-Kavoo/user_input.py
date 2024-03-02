@@ -12,4 +12,4 @@ location = input("what is your location?")
 # print personalized message
 print("hello{} you are{} year's old and you live in {}".foramt(name, age, location))
 
-
+# test
